@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eltonbangala
-- 👀 I’m interested in python, linux.
+- 👀 I’m interested in python, flask, linux.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
